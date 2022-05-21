@@ -1,0 +1,11 @@
+.nav-container {
+  background-color: greenyellow;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 16px;
+}
